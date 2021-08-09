@@ -34,4 +34,4 @@ jobs:
         cat CHANGELOG.md
         git tag
     - name: Push git version
-      run: git push --follow-tags origin master
+      run: git push --follow-tags origin main
