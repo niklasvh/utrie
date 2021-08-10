@@ -15,7 +15,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "base64-arraybuffer": "^0.2.0"
+    "base64-arraybuffer": "^1.0.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^19.0.0",
@@ -44,10 +44,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/niklasvh/utrie.git",
-    "bugs": {
-      "url": "https://github.com/niklasvh/utrie/issues"
-    },
-    "homepage": "https://github.com/niklasvh/utrie"
-  }
+    "url": "git+ssh://git@github.com/niklasvh/utrie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niklasvh/utrie/issues"
+  },
+  "homepage": "https://github.com/niklasvh/utrie"
 }
