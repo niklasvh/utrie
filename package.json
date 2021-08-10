@@ -15,7 +15,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "base64-arraybuffer": "^1.0.0"
+    "base64-arraybuffer": "^1.0.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^19.0.0",
