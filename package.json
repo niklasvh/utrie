@@ -1,6 +1,6 @@
 {
   "name": "utrie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unicode Trie",
   "main": "dist/utrie.umd.js",
   "module": "dist/utrie.es5.js",
